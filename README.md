@@ -1,16 +1,54 @@
-### Hi there 👋
+### 🤩 Nice way to meet me
+<p>
+    <a href="https://www.instagram.com/hyun_u_103/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <!-- <a href="https://velog.io/@qqq3964" target="_blank"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
+  <!-- <a href="https://www.linkedin.com/in/taewan-kim-259a05205/" target="_blank"><img src="https://img.shields.io/badge/TaewanKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
+  <a href="mailto:ksm3574@naver.com" target="_blank"><img src="https://img.shields.io/badge/ksm3574@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<!--
-**HarrysK99/HarrysK99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  👋&nbsp; Hi there! I'm <b>Autonomous Vehicle developer</b> skilled in C++, Python, Linux, ROS.🚀<br/>
+  I am interested in autonomous driving development. <br/> 
+  So I experienced various projects at the do-it-yourself car club in Konkuk Univ. <br/>
+  I love challenging anything 😁 even if it's something I've never experienced! <br/>
+  For my dream, I've been studying and studying ... <br/>
+  Sometimes I play LOL 🎮 to relieve stress.<br/>
+  If you want to play with me, add friends! The nickname is below my profile. <br/>
+  
+</p>
 
-Here are some ideas to get you started:
+### 💼 Career
+#### ● Graduated Konkuk University (2018.03-2024.02)
+#### ● Internship at EinsS&C (2023.08-2023.08)
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Awards
+#### ● 🥈우수상 - 2023 한양대 컨소시엄 창의적 종합설계 경진대회
+#### ● 🥉장려상 - 2023 건국대 제15회 창의설계경진대회
+#### ● 🥉장려상 - 2023 대학생 스마트 e모빌리티 경진대회 EV부문
+#### ● 🥈최우수상 - 제2회 국제 대학생 EV 자율주행 경진대회
+#### ● 🥈우수상 - 2018 건국대 X[deca] 작품 공모전
+<br/>
+
+### ✉️ certificate
+#### ● 네트워크관리사2급
+#### ● SQLD
+#### ● Self-Driving Cars Specialization (Toronto Univ.)
+<br/>
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"> 
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+</p>
