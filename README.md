@@ -18,7 +18,8 @@
 </p>
 
 ### 💼 Career
-#### ● Graduated Konkuk University (2018.03-2024.02)
+#### ● Yonsei University, MS (2025.03-Current)
+#### ● Konkuk University, BS (2018.03-2024.02)
 #### ● [Internship at EinsS&C](https://github.com/HarrysK99/Eins-Internship) (2023.08-2023.08)
 <br/>
 
